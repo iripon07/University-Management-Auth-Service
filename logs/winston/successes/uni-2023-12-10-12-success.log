@@ -1,0 +1,480 @@
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:01.369Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:01.393Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:13.872Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:13.889Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:16.982Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:16.994Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:28.842Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:11:28.858Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:12:29.136Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:12:29.150Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:12:45.930Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:12:45.950Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:12:48.218Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:12:48.228Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:13:29.198Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:13:29.212Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:13:32.602Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:13:32.612Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:13:58.757Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:13:58.771Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:14:10.253Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:14:10.273Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:17:55.614Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:17:55.629Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:19:04.672Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:19:04.680Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:19:21.531Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:19:21.563Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:05.247Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:05.269Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:15.271Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:15.284Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:25.849Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:25.863Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:35.771Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:35.782Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:43.715Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:43.728Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:54.223Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:20:54.234Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:22:01.445Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:22:01.668Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:22:04.321Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:22:04.334Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:06.918Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:06.929Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:09.797Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:09.807Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:19.597Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:19.606Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:36.306Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:36.313Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:40.032Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:24:40.050Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:25:50.508Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:25:50.517Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:25:56.160Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:25:56.181Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:27:18.648Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:27:18.666Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:27:24.115Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:27:24.128Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:29:29.731Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:29:29.745Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:29:37.286Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:29:37.303Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:29:48.939Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:29:48.952Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:06.669Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:06.700Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:28.033Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:28.048Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:48.745Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:48.756Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:51.227Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:30:51.235Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:31:24.850Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:31:24.869Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:31:33.668Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-10-12T06:31:33.682Z'
+}
