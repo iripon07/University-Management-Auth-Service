@@ -14,8 +14,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/api/v1/users/', UserRoutes);
 
 //Testing
-// app.get('/', async (req: Request, res: Response) => {
-//   res.send('Working Successfully');
+// app.get('/', (req: Request, res: Response, next:NextFunction) => {
+//   throw new ApiError(400, 'Ore')
 // });
 
 //Global error Handler
